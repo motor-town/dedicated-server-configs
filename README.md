@@ -1,1 +1,1 @@
-# dedicated-server-congifs
+# dedicated-server-configs
